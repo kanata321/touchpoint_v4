@@ -1,0 +1,7 @@
+<!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv50beta36.dtd" >
+   <PATCH nodename="C:\Users\haruki\GoogleDrive\program\project\digiriha\tpoint\test.v4p">
+   <NODE systemname="Twelite_RX_App (SerialPort Enable)" filename="Twelite_RX_App (SerialPort Enable).v4p" nodename="Twelite_RX_App (SerialPort Enable)" componentmode="Hidden" id="0">
+   <BOUNDS type="Node" left="4116" top="2196" width="100" height="100">
+   </BOUNDS>
+   </NODE>
+   </PATCH>
